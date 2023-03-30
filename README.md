@@ -1,4 +1,11 @@
 # senai-versoes-colaboracoes
-atividades iniciais de versionamento do curso dev full stack SENAI-SP
+```bash
+atividades iniciais de versionamento
+Curso Dev Full Stack SENAI-SP
+```
 
 teste/exemplo de readme feito diretamente no github
+
+e depois modificado no VS Code :rocket:
+
+---
