@@ -9,6 +9,12 @@ teste/exemplo de *readme* feito diretamente no github
 e depois **modificado** no VS Code :rocket:
 
 ---
+
+:rocket: +1 exemplo de **branch**
+agora teremos duas branchs além da main
+
+---
+
 ###### TESTE DE LISTA
 
 *Ordenada*
